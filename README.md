@@ -6,7 +6,7 @@ Il existe un très bon [outil en ligne pour obtenir des codes éco-participation
 
 ## Analyse de l'API
 
-Les exemples (et tests de conservation de l'API existante) sont rédigés avec [Hurl](https://github.com/Orange-OpenSource/hurl).
+Les exemples (et tests de conservation de l'API existante) sont rédigés avec [Hurl](https://github.com/Orange-OpenSource/hurl) et utilisent des expressions [JSONPath](https://goessner.net/articles/JsonPath/).
 
 ### 1. Filières
 
