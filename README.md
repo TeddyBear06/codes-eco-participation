@@ -12,9 +12,9 @@ Les exemples (et tests de conservation de l'API existante) sont rédigés avec [
 
 Il existe actuellement 4 filières :
 
-- ["Eléments d’ameublement"](exemples/filieres/ameublement.hurl)
-- ["Jouets"](exemples/filieres/jouet.hurl)
-- ["Articles de bricolage et de jardin"](exemples/filieres/brico_jardin.hurl)
+- "Eléments d’ameublement" ([exemple Hurl complet pour cette filière](exemples/ameublement.hurl))
+- "Jouets"
+- "Articles de bricolage et de jardin"
 - "PMCB & ABJ"[^1]
 
 Pour obtenir les campagnes liées à ces filières il existe un endpoint :
@@ -23,7 +23,7 @@ https://espace-services.eco-mobilier.fr/api/baremes/perimetre/generateur/campagn
 
 Où ${FILIERE} peut être :
 
-- ameublement ([exemple Hurl complet pour cette filière](exemples/ameublement.hurl))
+- ameublement 
 - jouet
 - brico_jardin
 - __PMCB__ABJ__[^2]
